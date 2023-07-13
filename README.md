@@ -15,8 +15,8 @@
     Open source projects
 
 📫 How to reach me:
-    Email: [Your Email Address]
-    GitHub: github.com/[Your GitHub Username]
+    Email: codfisk@gmail.com
+    GitHub: github.com/fisk38
 
 
 <!---
